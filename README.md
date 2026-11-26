@@ -74,8 +74,8 @@ Some antivirus programs may also flag it.
 2. Get the code:
 
    ```bash
-   git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
-   cd YOUR_REPO
+   git clone https://github.com/Koushik106/YT_Downloader.git
+   cd YT_Downloader
    ```
 
 3. Create and activate a virtual environment:
