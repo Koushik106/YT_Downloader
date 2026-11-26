@@ -3,6 +3,12 @@
 A simple desktop app for downloading videos and audio, built with Python, PyQt5 and
 [yt-dlp](https://github.com/yt-dlp/yt-dlp).
 
+## Preview
+<img width="450" height="586" alt="image" src="https://github.com/user-attachments/assets/8025e104-2aaa-4f6f-bde4-605da9be6511" />
+
+<img width="456" height="595" alt="image" src="https://github.com/user-attachments/assets/13eceff8-79cc-4d17-993f-02ce2b2adb87" />
+
+
 ## Features
 
 - Quality choices: Best, 1080p, 720p, 480p and Audio Only
